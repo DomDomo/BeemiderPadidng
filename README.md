@@ -3,4 +3,4 @@ Just to finish beeminder
  asdf
  
  
- done with
+ done with beeminder
